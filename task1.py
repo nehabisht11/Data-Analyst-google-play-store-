@@ -2,7 +2,6 @@
 # coding: utf-8
 
 import pandas as pd
-import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from nltk.corpus import stopwords
 import nltk
