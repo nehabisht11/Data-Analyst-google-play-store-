@@ -3,4 +3,8 @@ streamlit
 wordcloud
 plotly
 pytz
-
+nltk
+numpy
+matplotlib
+datetime
+seaborn
